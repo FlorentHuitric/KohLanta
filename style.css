@@ -1,0 +1,13 @@
+@font-face {
+    font-family: kohlanta;
+    src: url(fonts/SF\ Ironsides.ttf);
+}
+
+body{
+    font-family: kohlanta;
+    margin-top: 56px;
+    margin-bottom: 30px;
+}
+li{
+    list-style-type: none;
+}
